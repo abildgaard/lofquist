@@ -1,0 +1,99 @@
+                 
+                <!-- Project: Naru -->
+                <div class="container">
+
+                    <!-- Project Row One-->
+                    <div class="row justify-content-center no-gutters">
+                        <div class="col-lg-6 order-lg-first">
+                            <div class="bg-black text-center h-100 project">
+                                <div class="d-flex h-100">
+                                    <div class="project-text w-100 my-auto text-center text-lg-left">
+                                        <h3 class="text-white text-center font-weight-bold">Naru</h3>
+                                        <hr class="d-none d-lg-block" align="center"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-lg-6">
+                            <div class="bg-black text-center h-100 project">
+                                <div class="d-flex h-100">
+                                    <div class="project-text w-100 my-auto text-center text-lg-left">
+                                        <h6 class="text-white text-center "><i>Task Management App</i></h6>
+                                        <p class="mb-0 text-white-50">
+                                            Naru is a highly configurable project based task managemnent app for iOS. Visuals play an important part, allowing 
+                                            users at a glance to identify what's what.
+                                            Each project is defined in terms of bespoke icons/names for its task detail's: actions, priorities, categories and subcategories.
+                                            Tasks are created using a simple visual form that allows for quick selection of these relevant details - 
+                                            getting these down even when you distracted or just awoken with the best idea yet.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Project Row two-->
+                    <div class="row justify-content-center no-gutters">
+
+                        <div class="col-lg-6"><img class="img-fluid" src="assets/img/Squares.jpg" alt="" /></div>
+
+
+                        <div class="col-lg-6">
+                            <div class="bg-black text-center h-100 project">
+                                <div class="d-flex h-100">
+                                    <div class="project-text w-100 my-auto text-center text-lg-left">
+                                        <h6 class="text-white text-center">Managing mulitple project tasks</h6>
+                                        <p class="mb-0 text-white-50">
+                                            Each project's user experience is unqiue: project & its tasks are identified by a user choosen color scheme and tasks are identified visually through your bespoke- icons and naming conventions. 
+                                            Switching between different projects allows for effective management of each project's tasks, your bespoke UX prevents the confusion of different tasks from different projects.
+                                        </p>
+                                        <p class="mb-0 text-white-50">
+                                            Written in SwiftUI & Swift, it uses Core Data and CloudKit to store your projects and tasks.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+            
+
+
+
+
+            <!-- Project: DPE -->
+            <div class="container">
+
+                <!-- Project Row One-->
+                <div class="row justify-content-center no-gutters">
+
+                    <div class="col-lg-6 order-lg-first">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                    <h3 class="text-white text-center font-weight-bold">DPE</h3>
+                                    <hr class="d-none d-lg-block" align="center"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-6">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                    <h6 class="text-white text-center "><i>Distributed Process Engine (Swift)</i></h6>
+                                    <p class="mb-0 text-white-50">
+                                        A rethink from an earlier startup: a distributed workflow system written in Swift. 
+                                        We used our previous developed workflow system, in combination with a model driven data routing system, to provide a fast time-to-market provisioning system for cloud services.
+                                        This startup was aquired by a Silicon Valley CRM company. 
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
